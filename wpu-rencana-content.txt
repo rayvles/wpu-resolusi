@@ -1,5 +1,7 @@
 Rencana Konetent WPU
 - JavaScript
+  + ES6
+  + Framework JavaScript
 - Php Framework
 - interview
 - Vlogs
