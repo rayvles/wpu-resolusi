@@ -3,6 +3,7 @@ Rencana Konetent WPU
   + ES6
   + Framework JavaScript
     + Vue
+    + React
 - Struktur Data dasar
 - Php Framework
   + Laravel
