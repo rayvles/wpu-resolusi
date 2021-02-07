@@ -2,7 +2,9 @@ Rencana Konetent WPU
 - JavaScript
   + ES6
   + Framework JavaScript
-- Struktur Data dasar
+  + Angular
+  + React
 - Php Framework
+  + Laravel
 - interview
 - Vlogs
